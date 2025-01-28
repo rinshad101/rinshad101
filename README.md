@@ -9,6 +9,7 @@ I'm a **Frontend Web Developer** passionate about creating interactive, user-fri
 ![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black) 
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=white) 
 ![Redux](https://img.shields.io/badge/-Redux-purple?style=for-the-badge&logo=redux&logoColor=white)
 
